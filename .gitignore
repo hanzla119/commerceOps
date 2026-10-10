@@ -1,0 +1,17 @@
+node_modules/
+.yarn/cache/
+.yarn/unplugged/
+.pnp.*
+.next/
+dist/
+build/
+.medusa/
+uploads/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+dump.rdb
